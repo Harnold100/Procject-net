@@ -2,6 +2,6 @@
 #Open-source distro based on a 
 <tr>
 <td>
- <h3> <a href="https://www.youtube.com" target="_blank">Linexin</a></h3>
+ <h1> <a href="https://www.youtube.com" target="_blank">Linexin</a></h1>
 </td>
 </tr>
